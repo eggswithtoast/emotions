@@ -9,3 +9,4 @@ commentary and personal opinions, and maybe some useful interpretation. I hope y
 it. And Lisa, if you happen to find this, I hope you don't mind (but if you do, please
 let me know).
 
+[Start here](intro.md)
