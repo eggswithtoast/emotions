@@ -1,4 +1,6 @@
 
+[Prev](README.md) | [Next](ch1-fingerprints.md)
+
 ## Intro
 
 Think about how you feel. Feelings precede awareness of them, and arise naturally and
