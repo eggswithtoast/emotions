@@ -43,12 +43,13 @@ an increase in blood pressure, or be scared without an amygdala.²
 2) There is variation across cultures. I'm not sure exactly what this means yet, but
 seems self explanatory.
 
-These observations lead one to believe that emotion is constructed, or the way I'm
-currently thinking about it is that it's *learned*. Not like on purpose, but quite
-automatically, and maybe there is some evolution sprinkled in. And my guess is that
-individuals may still have something like a fingerprint, but it would depend on their
-entire life history, hopefully resulting in categorical failure of companies to do
-"analytics" about them.
+These observations lead one to believe that emotion is constructed, or the way
+I'm currently thinking about it is that it's *learned*. Not like on purpose,
+but quite automatically, taking cues from people around us. And maybe there is
+some evolution sprinkled in, to guide the process. And my guess is that
+individuals may still have something like a fingerprint, but it would depend on
+their entire life history, hopefully resulting in categorical failure of
+companies to do "analytics" about them.
 
 The author notes that just because emotions are constructed doesn't mean they aren't
 real. I'm curious to find out more about what that construction entails, and maybe
