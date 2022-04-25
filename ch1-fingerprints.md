@@ -44,12 +44,12 @@ except maybe to blink.¹
 
 Next step: measure the body. You can do this by having people make a face that should
 correspond to an emotion and measuring skin conductance (sweat) and arm tension. You
-read that right, the theory was that making a face will induce that emotion, and
-trigger a physical response. This actually *kinda* worked, but not quite. There was not
-enough resolution to distinguish between similar enough emotions, and the feedback
-mechanism was probably due to people actually identify the emotions based on the face
-and thus thinking about something that would cause them to feel something. Making a face
-without any context or expectation doesn't do the same thing.
+read that right, the theory was that making a face will induce that emotion, and trigger
+a physical response. This actually *kinda* worked, but not quite. There was not enough
+resolution to distinguish between similar enough emotions, and the feedback mechanism
+was probably due to people actually identifying the emotions based on the face and thus
+thinking about something that would cause them to feel something. Making a face without
+any context or expectation doesn't do the same thing.
 
 It is known that studies ended up finding essentially different fingerprints for what
 should have been the same emotion. There is too much variation in the way one can
@@ -63,13 +63,47 @@ threats, silent indignation, literally shaking their head, etc. Their reactions 
 statement that emotions are variable having such variation should really be a Seinfeld
 episode.
 
-I'm tired now, so will finish this chapter later. 
+Next step: measure the brain. You know, just measure it. That must be where the emotions
+are.³ 
 
-TODO
-* degeneracy - many to one. multiple brain patterns, same emotion.
-* one to many - one neuron can be involved in emotional and non emotional states
-* the amygdala is also involved in learning. e.g. novel faces in experiments.
+Anyway.. there was a woman who didn't have an amygdala, or maybe she did but it was not
+intact. People noticed she didn't get scared of things and that must have been
+surprising since aren't we all afraid? Or is it just me. Don't answer that. She was
+shown scary movies, and had an airhorn blown in her vicinity without warning, and none
+of that made her skin conductance change. This would imply the amygdala is the localized
+center of fear, and if that were true wouldn't that be nice, and we could finally remove
+them and be so brave. But someone noticed that she could understand fear in others, and
+identify it. Moreover, she *did* feel fear, when they replace some of her air with
+non-air (carbon dioxide).
 
+The moral of the story is emotions are *degenerate*. Not that kind. It means there are
+multiple ways that the brain can create a given emotion. Another, probably more accurate
+phrasing would be that emotions are actually *categories*, which make sense to group
+together but arise from a range of brain patterns, in a many-to-one fashion.
+
+Another conclusion we're just gonna throw in here is that the brain consists of "core
+systems". These are responsible for various tasks, which vary depending on the context.
+And I do mean various - memory, sight, analysis, even emotional experiences. This is
+literally not degenerate at all, it's the opposite - one-to-many, i.e. one neuron or one
+subsystem can be involved in a lot of things.⁴
+
+So people (including the author) continued studies about the amygdala. One of which
+showed participants faces that look scared, which the amygdala *did* respond to, but
+it also responded to any faces as long as they were new (maybe some other qualifications
+to this). And it also lights up when you learn things. The result, which we expect by
+now, is that one one has found any neural fingerprints for emotions. Also, every region
+involved in emotion is also doing non-emotions sometimes. 
+
+The last bit here is that the author collected a bunch of brain scans in the form of
+voxels, and trained a classifier to recognize emotions based on these. Wait, this sounds
+wrong. Well hold your horses, it's not like a predefined pattern. It's a statistical
+thing. Like (example from the book) if you train a computer to recognize golden
+retrievers, it doesn't have a precise definition of these wonderful creatures, but
+relies on averaging over a bunch of dog instances. 
+
+This makes sense, because we already established that emotions are categories which
+would mean they are best described by statistical properties. I do feel like that is
+kind of a fingerprint, but not gonna get into semantics now.
 
 --------------------
 
@@ -77,3 +111,14 @@ TODO
  feel like seeing a tiger is a normal and safe situation.
 
 ² Typical of scientists to all disagree with each other.
+
+³ You might notice I'm not really telling a coherent story, but it's ok, just embrace
+the chaos. There is some cohesion anyway, since this summary is more or less following
+the book chronologically on an intra-chapter level, but with some gaps.
+
+
+⁴ I mean if you think about it, having a 1-1 mapping of brain parts (or networks, which is
+the same idea) to emotions would be pretty weird, and not a good modular design, and
+just seems like you'd eventually end up with contradictions in the theory. But this
+*was* the theory for quite some time.
+
